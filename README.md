@@ -18,5 +18,6 @@ cd todo-server
 node index.js
 ```
 Then you can simply run the main `index.html` to run the app.
-I prefer [serve](https://www.npmjs.com/package/serve), (but you can use esomething else):
+I prefer [serve](https://www.npmjs.com/package/serve) (but you can use something else):
+
 [![PC-name:Todo-list username$ serve](https://i.postimg.cc/kgVcbf13/2022-08-22-13-02-46.png)](https://postimg.cc/G4CG0Jnq)
