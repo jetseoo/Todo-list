@@ -11,6 +11,10 @@ This todo app allows you to:
 - Bootstrap 4.5.3
 - Node.js (to run the server)
 
+## Live demo
+https://jetseoo.github.io/Todo-list/index.html
+> Server-storage don't work in demo
+
 ## Setup
 Run the `index.js` from server folder using terminal:
 ```
